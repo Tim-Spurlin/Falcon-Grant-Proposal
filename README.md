@@ -8,7 +8,7 @@
 **Amount Requested:** $10,800,000 (ten million eight hundred thousand dollars)  
 **Total PASS Grant Funding Available:** $10,800,000 (ten million eight hundred thousand dollars)  
 **Project Duration:** 18 months  
-**Submission Date:** May 18, 2025  
+**Submission Date:**  Not Submitted
 
 ---
 
