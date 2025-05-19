@@ -1,7 +1,8 @@
 # Preparing for Active Shooter Situations (PASS) Grant Proposal
 ## Churches United for the Homeless (CUFH) - Micah's Mission
-### FY25 PASS Invitational - O-COPS-2025-172409
+### FY25 PASS Invitational - O-COPS-2025-172392
 
+**Funding Opportunity:** [https://www.grants.gov/search-results-detail/358973](https://www.grants.gov/search-results-detail/358973)  
 **Applicant Organization:** Churches United for the Homeless (CUFH)  
 **Project Title:** FALCON (Forensic Analysis and Logical Crisis Observation Network) Security System Implementation  
 **Amount Requested:** $10,800,000 (ten million eight hundred thousand dollars)  
@@ -32,7 +33,7 @@
 
 ## Executive Summary
 
-Churches United for the Homeless (CUFH) respectfully submits this proposal for the FY25 Preparing for Active Shooter Situations (PASS) Invitational program to implement the FALCON (Forensic Analysis and Logical Crisis Observation Network) Security System across our facilities serving vulnerable populations throughout the Moorhead-Fargo metropolitan area. 
+Churches United for the Homeless (CUFH) respectfully submits this proposal for the FY25 Preparing for Active Shooter Situations (PASS) Invitational program (O-COPS-2025-172392) to implement the FALCON (Forensic Analysis and Logical Crisis Observation Network) Security System across our facilities serving vulnerable populations throughout the Moorhead-Fargo metropolitan area. 
 
 Our funding request of $10,800,000 (ten million eight hundred thousand dollars) represents the full allocation of the PASS program funding and is justified by the comprehensive security needs of Churches United for the Homeless (CUFH) and the transformative impact this implementation will have across all our facilities and the broader community.
 
@@ -62,7 +63,7 @@ Key features of the proposed system include:
    - Creation of true safe havens for vulnerable populations in crisis
    - Preservation of CUFH's open-door policy while enhancing security
 
-This proposal represents a critical opportunity to protect those most vulnerable in our community while establishing a model for security enhancement that balances accessibility with protection. CUFH has received a direct invitation from the COPS Office to apply for this grant based on our demonstrated need and commitment to community safety.
+This proposal directly responds to the COPS Office PASS Program (Funding Opportunity O-COPS-2025-172392 on grants.gov) priorities for enhancing the safety and security of facilities serving vulnerable populations. CUFH has received a direct invitation from the COPS Office to apply for this grant based on our demonstrated need and commitment to community safety.
 
 ---
 
@@ -222,7 +223,7 @@ Standard security approaches prove insufficient in our environment due to:
    - Multiple entry points required for fire safety and ADA compliance
    - Facilities operate across extended hours (some 24/7)
 
-Traditional security countermeasures like metal detectors, security gates, or extensive identity verification would fundamentally compromise our ability to deliver essential services to those in crisis, necessitating the innovative approach proposed in this application.
+Traditional security countermeasures like metal detectors, security gates, or extensive identity verification would fundamentally compromise our ability to deliver essential services to those in crisis, necessitating the innovative approach proposed in this application. This need directly aligns with the PASS Program (O-COPS-2025-172392) focus on implementing preventative security measures in vulnerable community facilities.
 
 ---
 
@@ -599,7 +600,7 @@ Beyond direct security-related savings, the FALCON system will enhance overall o
 | 5-Year Cost Offset | $1,592,405 |
 | Long-term Community Safety Value | Incalculable |
 
-This analysis demonstrates that beyond the critical security enhancements provided, the FALCON system represents a sound investment in the long-term safety and stability of vulnerable populations served by Churches United for the Homeless.
+This analysis demonstrates that beyond the critical security enhancements provided, the FALCON system represents a sound investment in the long-term safety and stability of vulnerable populations served by Churches United for the Homeless. The system aligns perfectly with the PASS Program (O-COPS-2025-172392) goals of enhancing security infrastructure and preventing violence in community service facilities.
 
 ---
 
@@ -765,6 +766,8 @@ This comprehensive budget has been developed through careful needs assessment, d
 4. **Long-Term Sustainability**: Infrastructure and capability development for ongoing security enhancement
 5. **Community-Wide Impact**: Protection extending beyond CUFH to broader community safety
 
+The budget directly addresses the priorities outlined in the PASS Program (Funding Opportunity O-COPS-2025-172392) for implementing comprehensive active shooter prevention systems in vulnerable facilities.
+
 ---
 
 ## Expected Outcomes and Evaluation
@@ -889,7 +892,7 @@ The FALCON system implementation will be evaluated using a comprehensive approac
 | Client Perception Measurement | Bi-annually | Client Services Team | Semi-annual client experience report |
 | Comprehensive Evaluation Report | Annually | External Evaluator | Annual system effectiveness report |
 
-The evaluation framework will provide ongoing visibility into system performance while enabling continuous improvement through data-driven refinement. Annual comprehensive evaluation will assess overall effectiveness against established goals and identify opportunities for enhancement.
+The evaluation framework will provide ongoing visibility into system performance while enabling continuous improvement through data-driven refinement. Annual comprehensive evaluation will assess overall effectiveness against established goals and identify opportunities for enhancement. This evaluation approach aligns with the PASS Program (O-COPS-2025-172392) requirements for measuring effectiveness and demonstrating outcomes.
 
 ---
 
@@ -976,7 +979,7 @@ The evidence-based design has been further enhanced through specific local coord
    - Implementation lessons learned integration
    - Regional security coordination enhancement
 
-This evidence-based approach ensures the FALCON system implementation benefits from established research, proven methodologies, and demonstrated outcomes while incorporating critical local context for maximum effectiveness.
+This evidence-based approach ensures the FALCON system implementation benefits from established research, proven methodologies, and demonstrated outcomes while incorporating critical local context for maximum effectiveness. Our implementation strategy directly addresses the PASS Program's (O-COPS-2025-172392) emphasis on evidence-based security solutions for vulnerable facilities.
 
 ---
 
@@ -1108,7 +1111,7 @@ The long-term financial sustainability of the FALCON system is ensured through m
 - Volunteer technical support engagement
 - Security enhancement sponsorship opportunities
 
-This comprehensive sustainability plan ensures the FALCON system will remain fully operational and effective well beyond the grant period, providing lasting security enhancement for Churches United for the Homeless' critical community services.
+This comprehensive sustainability plan ensures the FALCON system will remain fully operational and effective well beyond the grant period, providing lasting security enhancement for Churches United for the Homeless' critical community services. This sustainability approach directly addresses the PASS Program (O-COPS-2025-172392) requirements for ensuring long-term viability of security enhancements.
 
 ---
 
@@ -1146,7 +1149,7 @@ The FALCON system will provide immediate and lasting benefits to multiple stakeh
 
 ### Alignment with PASS Program Goals
 
-The FALCON system implementation directly advances the core objectives of the Preparing for Active Shooter Situations program by:
+The FALCON system implementation directly advances the core objectives of the Preparing for Active Shooter Situations program (Funding Opportunity O-COPS-2025-172392) by:
 
 1. Implementing evidence-based security enhancement that prevents potential threats from escalating to active shooter situations
 2. Creating a coordinated, multi-agency approach to security threats involving vulnerable populations
@@ -1173,7 +1176,7 @@ This investment will create lasting impact through:
 - Long-term security infrastructure benefiting the community for years to come
 - Innovative model applicable to similar organizations nationwide
 
-We are deeply grateful for the COPS Office's consideration of this critical security enhancement for Churches United for the Homeless.
+We are deeply grateful for the COPS Office's consideration of this critical security enhancement for Churches United for the Homeless through the PASS Program (Funding Opportunity O-COPS-2025-172392).
 
 ---
 
